@@ -392,3 +392,13 @@ main ul li, main ol li{
     font-size: 20px;
   }
 }
+
+
+@media (max-width: 768px){
+  .footer-top{
+    grid-template-columns: 1fr !important;
+    text-align: center !important;
+  }
+}
+
+
